@@ -30,9 +30,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-| | |
-| :--: | :--: |
-| ![Gharib's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-gharib89&show_icons=true&theme=algolia&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-gharib89&theme=algolia) |
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+
+ ![Gharib's github stats](https://github-readme-stats.vercel.app/api?username=ahmed-gharib89&show_icons=true&theme=algolia&count_private=true) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-gharib89&theme=algolia&layout=compact) 
 
 #### Find me in social media
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white "Github")](https://github.com/ahmed-gharib89 "Github")
