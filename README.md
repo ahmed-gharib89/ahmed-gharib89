@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p><img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
-</p>
+
 <p align='center'><img  src="https://user-images.githubusercontent.com/48323127/92276168-1ccd0400-ef0e-11ea-99f0-64f583d87e22.png" alt="Hello world" ></p>
 
 
