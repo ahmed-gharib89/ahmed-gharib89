@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<p align='center'><img  src="https://user-images.githubusercontent.com/48323127/92276168-1ccd0400-ef0e-11ea-99f0-64f583d87e22.png" alt="Hello world" ></p>
+<p align='center'><img  src="https://github.com/ahmed-gharib89/ahmed-gharib89/blob/master/cover.png" alt="Cover pic" ></p>
 
 
 <p align="center"> 
