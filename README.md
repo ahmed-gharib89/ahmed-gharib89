@@ -1,12 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-<p align='center'><img  src="https://github.com/ahmed-gharib89/ahmed-gharib89/blob/master/cover.png" alt="Cover pic" ></p>
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/anupamhaldkar/count.svg" />
 </p>
+
+![](https://github.com/ahmed-gharib89/ahmed-gharib89/blob/master/cover.png)
+
+
+
 
 - 🔭 I’m currently studying [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Everything
