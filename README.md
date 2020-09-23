@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/anupamhaldkar/count.svg" />
+  <img src="https://profile-counter.glitch.me/ahmed-gharib89/count.svg" />
 </p>
 
 ![](https://github.com/ahmed-gharib89/ahmed-gharib89/blob/master/cover.png)
