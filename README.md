@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently studying [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently studying [AI Programming with Python Nanodegree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate on Web 🕸 Applications 
 - 💬 Ask me about : I am always ready to help at my best 
