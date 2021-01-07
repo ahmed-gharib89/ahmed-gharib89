@@ -9,13 +9,13 @@
 
 
 
-- 🔭 I’m currently studying [AI Programming with Python Nanodegree](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently studying [Agile Software Development Nanodegree](https://www.udacity.com/course/agile-software-development-nanodegree--nd144) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate on Web 🕸 Applications 
 - 💬 Ask me about : I am always ready to help at my best 
 - 📫 How to reach me: a.gharib89@yahoo.com  
 - 😄 Pronouns: Friend :open_hands:
-- ⚡ Fun fact: I still work as an accountant  
+- ⚡ Finally shifted my career into DataScince
 
 <a href="https://stars.github.com/">Nominate me as GitHub Star 🌟</a>
 
