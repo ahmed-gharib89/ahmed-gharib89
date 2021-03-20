@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently studying [Machine Learning Scientist with Python](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently studying [Machine Learning Scientist with Python at DataCamp](https://learn.datacamp.com/career-tracks/machine-learning-scientist-with-python?version=1) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Everything
 - 👯 I’m looking to collaborate on Web 🕸 Applications 
 - 💬 Ask me about : I am always ready to help at my best 
